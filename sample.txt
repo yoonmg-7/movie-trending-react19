@@ -1,0 +1,36 @@
+JavaScript Mastering
+=====================
+
+#npm create vite@latest
+#App.jsx (using Prop) 
+#index.css 
+#useState
+#useEffect
+#
+#Figma (https://www.figma.com/design/kdu6x1bqzyCMbzezudt6s2/Movie-App-w%2F-React?node-id=89013-203&t=FnX236Q1qC5alAP2-0)
+#
+#
+Poject Starts
+==============
+# index.css
+# app.jsx => For Header
+# components => (search.jsx)
+# API (Fetching Data) => TMDB => username ====yoon-nandar-mg
+# API token access === eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5NmFkNTc2MWJkMGQ0NTE5YWVjMTFkMjdkYjBiOWI5NyIsIm5iZiI6MTczOTg5MTg3Ni4xMjksInN1YiI6IjY3YjRhNGE0MjBhY2ZlYzRlY2UwZWE3ZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Pm5TcaLdp2IvlfAlbvzj1zlxbeHiPbHWIhTE-BG0zzA
+https://developer.themoviedb.org/reference/discover-movie
+
+#MovieCard using props
+#Implement Search ===== using query
+#Optimized Search ===== npm i react-use by using debounce
+
+trending Movie
+===============
+#open the appwrite account
+#create the id step by step
+#create folder appwrite.jsx in src 
+#updateSearchCount()
+
+Show trending movie
+======================
+#getTrendingMovies() => appwrite.js
+
